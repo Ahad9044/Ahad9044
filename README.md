@@ -42,7 +42,12 @@ AWS (EC2, S3, IAM) • Git • GitHub • Postman • VS Code
 <img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" alt="express"/>
 <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" width="40" alt="tailwindcss"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" height="32" alt="aws"/>
-
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" alt="bootstrap"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="github"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" alt="vscode"/>
+  <img src="https://cdn.simpleicons.org/codesandbox/000000" width="40" alt="codesandbox"/>
+  <img src="https://cdn.simpleicons.org/gitlab/FCA121" width="40" alt="gitlab"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="javascript-es6"/>
 </p>
 
 ---
