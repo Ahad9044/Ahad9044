@@ -41,6 +41,15 @@ AWS (EC2, S3, IAM) • Git • GitHub • Postman • VS Code
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <!-- Tailwind CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="tailwindcss"/>
+
+<!-- Express -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" alt="express"/>
+
+<!-- AWS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="aws"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="50" alt="express" style="filter: invert(1);"/>
 </p>
 
 ---
@@ -48,9 +57,11 @@ AWS (EC2, S3, IAM) • Git • GitHub • Postman • VS Code
 ### 🌱 Currently Improving  
 - Scalable systems design  
 - AWS deployment & CI/CD pipelines  
-- Performance optimization in MERN stack  
+- Performance optimization in MERN stack
+- Backend Development in Python
+- Agentic AI  
 
 ---
 
 ### 📬 Connect With Me  
-> (Share your LinkedIn / Portfolio link here once ready)
+> https://www.linkedin.com/in/its-syedahad
