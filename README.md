@@ -50,6 +50,12 @@ AWS (EC2, S3, IAM) • Git • GitHub • Postman • VS Code
 <!-- AWS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="aws"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="50" alt="express" style="filter: invert(1);"/>
+<img src="https://cdn.simpleicons.org/amazonaws/FFFFFF" width="40" alt="aws"/>
+<img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" alt="express"/>
+<img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" width="40" alt="tailwindcss"/>
+
+
+
 </p>
 
 ---
