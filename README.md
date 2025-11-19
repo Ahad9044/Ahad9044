@@ -38,10 +38,10 @@ AWS (EC2, S3, IAM) • Git • GitHub • Postman • VS Code
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 <img src="https://cdn.simpleicons.org/express/FFFFFF" width="40" alt="express"/>
 <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" width="40" alt="tailwindcss"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" height="32" alt="aws"/>
+<!-- <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" height="32" alt="aws"/> -->
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" alt="bootstrap"/>
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="github"/>
-  <img src="https://cdn.simpleicons.org/gitlab/FCA121" width="40" alt="gitlab"/>
+  <!-- <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="github"/> -->
+  <!-- <img src="https://cdn.simpleicons.org/gitlab/FCA121" width="40" alt="gitlab"/> -->
 <img src="https://cdn.simpleicons.org/codesandbox/FFFFFF" width="40" alt="codesandbox"/>
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="postman"/>
 </p>
@@ -57,5 +57,5 @@ AWS (EC2, S3, IAM) • Git • GitHub • Postman • VS Code
 ---
 
 ### 📬 Connect With Me  
-> https://www.linkedin.com/in/its-syedahad
+> https://www.linkedin.com/in/its-syedahad </br>
 > its.ahad@outlook.com
